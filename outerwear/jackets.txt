@@ -1,0 +1,8 @@
+On branch new_feature
+Untracked files:
+	./
+	../pants.txt
+	../shoes.txt
+	../ties.txt
+
+nothing added to commit but untracked files present
