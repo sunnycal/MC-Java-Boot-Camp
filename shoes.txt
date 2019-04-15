@@ -1,0 +1,18 @@
+On branch new_feature
+Untracked files:
+	pants.txt
+	shoes.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   readme.md
+
+Untracked files:
+	pants.txt
+	shoes.txt
+	ties.txt
+
+no changes added to commit
